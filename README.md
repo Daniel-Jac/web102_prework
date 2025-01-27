@@ -1,44 +1,39 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework 
 
-Submitted by: **Your Name Here**
+Submitted by: **Daniel Jachero**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+WEB 102 prework is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/ec0a73ced02a4d79847693bce4e33f98">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 26 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ec0a73ced02a4d79847693bce4e33f98">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec0a73ced02a4d79847693bce4e33f98-fb2161f07cfaf68e-full-play.gif">
+    </a>
+ </div>
 
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Remember Javascript Syntax and functionality
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Daniel Jachero]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
